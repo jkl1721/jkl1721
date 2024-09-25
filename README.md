@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkl1721" alt="jkl1721" /></a> </p>
 
-- 🔭 I’m currently working as **IT Programmer At PT Bagong Sejahtera Abadi.**
+- 🔭 I’m currently working as **IT Fullstack Developer Associate At PT Bagong Sejahtera Abadi.**
 
 - 🌱 I’m currently learning **VueJs, ASP.Net, Ionic, Laravel, Php, Javascript, Kotlin, Flutter**
 
